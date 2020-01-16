@@ -18,6 +18,6 @@ Our wolf watched an Imperial fire burn down the world and he sang -- in negation
 
 Stuck in the traffic, letting in big-rigs, eventually arriving to be our little dented cogs in the machine it's hard to pretend to be happy, but it's hard being unhappy too. 
 
-[1]: -34C at 8:30am.
+[^1]: -34C at 8:30am.
 
-[2]: Anthony Henday was a Hudson's Bay Company man.
+[^2]: Anthony Henday was a Hudson's Bay Company man.
