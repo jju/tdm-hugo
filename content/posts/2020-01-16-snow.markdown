@@ -1,0 +1,14 @@
+---
+author: jjackunrau
+comments: true
+date: 2020-01-16 10:49:52
+layout: post
+slug: snow
+title: how does this happen
+categories:
+- edmonton
+tags:
+- winter
+---
+
+How does it snow in the -30s? How does frost appear inside our new triple-paned windows when there's no humidity within the house to condense?
